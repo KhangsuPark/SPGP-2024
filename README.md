@@ -15,8 +15,12 @@
 3. 여러 패턴의 적(몬스터) 생성
 
 예상 게임 실행 흐름도:
+
+
 로비
 ![image](https://github.com/KhangsuPark/SPGP-2024/assets/104749478/5e6f3ffb-60fc-4550-a110-0c98290ed048)
+
+
 게임 실행
 ![image](https://github.com/KhangsuPark/SPGP-2024/assets/104749478/a8dbaf38-fe28-4c0d-8381-f3e95dd31bd5)
 
