@@ -3,7 +3,11 @@
 
 게임 이름 : Peglin(모작)
 
-게임 컨셉 : 핀볼 게임(페글) 형식의 로그라이크 게임
+게임 컨셉 : 
+
+핀볼 게임(페글) 형식의 로그라이크 게임
+
+
 ![image](https://github.com/KhangsuPark/SPGP-2024/assets/104749478/69a87a96-4f6a-4123-b0f2-eb2f98504dc1)
 ![image](https://github.com/KhangsuPark/SPGP-2024/assets/104749478/53a74824-2d63-40d6-a6c0-7065b2636283)
 
