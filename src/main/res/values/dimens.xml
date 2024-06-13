@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="goblin_start_x">20</dimen>
+    <dimen name="goblin_start_y">140</dimen>
+    <dimen name="bullet_size">60</dimen>
+</resources>
